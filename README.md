@@ -15,4 +15,4 @@ fixed bug
 Berbagai sistem inti gamemode dirombak dan ditingkatkan.
 etc
 
-Repository ini disimpan sebagai arsip sekaligus monumen sejarah bagi gw wkzkkzw.
+Repository ini disimpan sebagai arsip sekaligus monumen sejarah bagi gw dan para pengembang terdahulu negeriku.
