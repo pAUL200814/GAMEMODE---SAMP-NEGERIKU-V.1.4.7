@@ -1,7 +1,7 @@
 # GAMEMODE---SAMP-NEGERIKU-V.1.4.7
 
 
-Gamemode ini sebelumnya digunakan untuk server Negeriku Roleplay dan dikembangkan secara mandiri by anjayaa.
+Gamemode ini sebelumnya digunakan untuk server Negeriku Roleplay (in this case gw founder nya) dan dikembangkan secara mandiri by anjayaa.
 
 Gamemode ini berawal dari basic gamemode LRP yang bersifat open source. Namun, selama proses pengembangan, gw rombak secara signifikan pada berbagai aspek, sehingga berbeda jauh dari versi dasarnya.
 
